@@ -1,0 +1,55 @@
+#main
+{
+    margin:0 40% 0 40%;
+    width:20%;
+    border:1px solid black;
+}
+
+#header img
+{
+    float:left;
+    margin: 2px;
+}
+
+#header input
+{
+    width:80%;
+    height: 28px;
+    margin:2px 2px 2px 5px;
+    border-radius:5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+}
+
+#content 
+{
+    border-top:1px solid black; 
+    border-bottom:1px solid black; 
+}
+
+#command
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:22px;
+    font-weight: bold;
+    border:1px solid black;
+}
+
+#command:hover
+{
+    color:white;
+    background-color:black;
+    cursor:pointer;
+}
+
+table 
+{
+    border:1px solid black;
+    margin: 2px 0px 2px 0px;
+}
+
+table img:hover
+{
+    cursor:pointer;
+}
